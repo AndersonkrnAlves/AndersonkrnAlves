@@ -17,7 +17,7 @@ Eu sou Anderson Alves, estou cursando Engenharia de Software, estou no quinto se
 <br />
 
 <p align="left">
- <strong> Linguagens e ferramentos:</strong>
+ <strong> Linguagens e ferramentas:</strong>
   <br />
   <br />
 </p>
