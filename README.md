@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! 👋
 
 Eu sou Anderson Alves, estou cursando Engenharia de Software, estou no quinto semestre, tabém faço parte do DevClub e atualmente estou aprendendo e criando projetos com:
 <br>
@@ -12,7 +12,7 @@ Eu sou Anderson Alves, estou cursando Engenharia de Software, estou no quinto se
 <a href="https://www.instagram.com/andersonalvesasa/">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" width="22px" />
 </a>
-<a> 
+<a href="https://www.linkedin.com/in/anderson-alves-asa/"> 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="22px" />
 </a>
 <br>
