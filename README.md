@@ -1,11 +1,8 @@
 ## Olá! 👋
 
-Eu sou Anderson Alves, estou cursando Engenharia de Software, estou no quinto semestre, tabém faço parte do DevClub e atualmente estou aprendendo e criando projetos com:
+Eu sou Anderson Alves, estou cursando Engenharia de Software, estou no quinto semestre, tabém faço parte do DevClub e atualmente estou aprendendo e criando projetos.
 <br>
 <br>
-- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-- <img src="https://img.shields.io/badge/JavaScript-ebd234?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
 
 ### Conecte-se comigo:
 
@@ -15,8 +12,23 @@ Eu sou Anderson Alves, estou cursando Engenharia de Software, estou no quinto se
 <a href="https://www.linkedin.com/in/anderson-alves-asa/"> 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="22px" />
 </a>
-<br>
-<br>
+<br />
+<br />
+<br />
+
+<p align="left">
+  Linguagens e ferramentos:
+  <br />
+  <br />
+</p>
+
+
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="25" alt="html-logo" />
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"  height="25" alt="css-logo" />
+  <img align="left" src="https://wildcardcorp.com/image-repository/javascript-icon.png/@@images/image.png" alt="javascript-logo" height="25" />
+<br />
+<br />
+<br />
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonkrnalves&show_icons=true&theme=radical)
 
