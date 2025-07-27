@@ -22,12 +22,11 @@ Eu sou Anderson Alves, estou cursando Engenharia de Software, estou no quinto se
   <br />
 </p>
 
-
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="25" alt="html-logo" />
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"  height="25" alt="css-logo" />
-  <img align="left" src="https://wildcardcorp.com/image-repository/javascript-icon.png/@@images/image.png" alt="javascript-logo" height="25" />
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1119px-Java_programming_language_logo.svg.png" height="25" alt="java-logo"  />
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="25" alt="linguagemC-logo" />
+ <code align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="25" alt="html-logo" /></code>
+ <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"  height="25" alt="css-logo" /></code>
+ <code><img src="https://wildcardcorp.com/image-repository/javascript-icon.png/@@images/image.png" alt="javascript-logo" height="25" /></code>
+ <code><img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1119px-Java_programming_language_logo.svg.png" height="25" alt="java-logo"  /></code>
+ <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="25" alt="linguagemC-logo" /></code>
 <br />
 <br />
 <br />
