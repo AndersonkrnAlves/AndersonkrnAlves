@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Eu sou Anderson Alves, estou cursando Engenharia de Software, estou no quinto semestre, tabém faço parte do DevClub e atualmente estou aprendendo e criando projetos.
+Eu sou Anderson Alves, estou cursando Engenharia de Software, tabém faço parte do DevClub e atualmente estou aprendendo e criando projetos.
 <br>
 <br>
 
@@ -31,6 +31,10 @@ Eu sou Anderson Alves, estou cursando Engenharia de Software, estou no quinto se
 <br />
 <br />
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonkrnalves&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkrnalves&layout=compact&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersonkrnalves&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonkrnalves&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
